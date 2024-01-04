@@ -1,1 +1,3 @@
-# rust_twitter_clone
+# twitter-clone-rust
+
+Simplified Twitter Clone built using Rust

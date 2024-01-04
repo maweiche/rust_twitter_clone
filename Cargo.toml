@@ -1,5 +1,5 @@
 [package]
-name = "twitter-clone-rust"
+name = "twitter-clone"
 version = "0.1.0"
 authors = ["Matt"]
 edition = "2018"
